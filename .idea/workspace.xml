@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7177335-4647-40d3-8a60-a2b60ed82a2b" name="Changes" comment="Module 13 Homework" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RqEbNV4ea8X50NITkKoMVwCxRw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "F:/JavaLibs/jsoup-1.16.1.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FizzBuzzProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Module_12.FizzBuzzProcessor" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Module_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Module_13.Main" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Module_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Module_12.TimeThreads" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Module_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework.Module_10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Module_10.Main" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Module_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework.Module_11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Module_11.Main" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Module_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TimeThreads" />
+        <item itemvalue="Application.FizzBuzzProcessor" />
+        <item itemvalue="Application.homework.Module_10.Main" />
+        <item itemvalue="Application.homework.Module_11.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7177335-4647-40d3-8a60-a2b60ed82a2b" name="Changes" comment="" />
+      <created>1687969285170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687969285170</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Other Project files">
+      <created>1687972802179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687972802179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Module 10 Homework">
+      <created>1688483067446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688483067446</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Module 10 Homework&#10;Add sorting for output of WordFreqCounter">
+      <created>1688536779589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688536779589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Module 11 Homework">
+      <created>1688562447681</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688562447681</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Module 11 Homework commit 2">
+      <created>1688572216121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688572216121</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Module 11 Homework commit 3">
+      <created>1688580278883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688580278883</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Module 12 Homework">
+      <created>1689060819111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689060819111</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Module 13 Homework">
+      <created>1689365849213</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689365849213</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1689283112358" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Other Project files" />
+    <MESSAGE value="Module 10 Homework" />
+    <MESSAGE value="Module 10 Homework&#10;Add sorting for output of WordFreqCounter" />
+    <MESSAGE value="Module 11 Homework" />
+    <MESSAGE value="Module 11 Homework commit 2" />
+    <MESSAGE value="Module 11 Homework commit 3" />
+    <MESSAGE value="Module 12 Homework" />
+    <MESSAGE value="Module 13 Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 13 Homework" />
+  </component>
+</project>
